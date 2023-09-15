@@ -13,3 +13,6 @@ while the second did not.
 - How to run:
   - Run migrate with `python manage.py migrate`
   - Run the server with `python manage.py runsevrer`
+
+NOTE: The project did not test the storing of the user who created the changes (actor),
+See more regarding that here `https://django-auditlog.readthedocs.io/en/latest/usage.html#actors`
