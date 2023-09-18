@@ -1,4 +1,4 @@
-# django-logging-with-auditlog
+# django-audit-trail-with-auditlog
 
 
 - The project test django logging using `django-auditlog(https://github.com/jazzband/django-auditlog)`
